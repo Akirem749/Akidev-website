@@ -1,0 +1,13 @@
+
+body{
+  /*This style below will be inherited*/
+  font-family: Roboto,Arial;
+  margin: 0px;
+  padding-left: 95px;
+  padding-top: 80px;
+  padding-right: 24px;
+  height: 3000px;
+  background-color: rgb(248, 248, 248);
+  margin: 0px;
+  
+}
